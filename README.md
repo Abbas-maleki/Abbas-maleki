@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abbas-maleki, Ph.D. reseracher @Utwente!
-- 👀 I’m interested in developing AI-bases, simulation-based, and optimization-based DSTs to tackle uncertainty in decision-making.
+- 👀 I’m interested in developing AI-based, simulation-based, and optimization-based DSTs to tackle uncertainty in decision-making, and my favorite programming language is Python.
 - 🌱 I’m currently learning RL and MDP to apply them in optimization problems in Healthcare Logistics!
 
 <!---
